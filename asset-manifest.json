@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/personal-blog-mscha/static/css/main.e3fb8f86.css",
+    "main.js": "/personal-blog-mscha/static/js/main.5d310653.js",
+    "static/media/background4.jpg": "/personal-blog-mscha/static/media/background4.5e7cfa4dfa6adbfdc353.jpg",
+    "index.html": "/personal-blog-mscha/index.html",
+    "main.e3fb8f86.css.map": "/personal-blog-mscha/static/css/main.e3fb8f86.css.map",
+    "main.5d310653.js.map": "/personal-blog-mscha/static/js/main.5d310653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3fb8f86.css",
+    "static/js/main.5d310653.js"
+  ]
+}
